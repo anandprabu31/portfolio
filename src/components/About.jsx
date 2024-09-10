@@ -21,7 +21,7 @@ const About = () => {
               <span className="w-96">
               <Link to="https://ecommerce-three-taupe.vercel.app/">
         <h1 className="text-xl md:text-2xl font-semibold leading-normal cursor-pointer">
-        Ecommerce website - Big Deal
+        Ecommerce website
                   </h1>
       </Link>
                 <p className="text-sm md:text-md leading-tight">
